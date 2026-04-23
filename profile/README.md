@@ -30,7 +30,7 @@ Repositories coming soon!
 
 # 2024
 
-Two projects with multiple independent teams this year.
+Four (!) projects with multiple independent teams this year.
 
 ## Ebooks perpetual access tracking
 
@@ -47,4 +47,30 @@ I first tried the LCCN harvester project in 2024. Unfortunately I had designed t
 * [Library-Metadata-Harvester-2024 (Team 2)](https://github.com/CS-4820-Library-Project/Library-Metadata-Harvester-2024)
 * [LibraryMetadataHarvester_Team5 (2024)](https://github.com/CS-4820-Library-Project/LibraryMetadataHarvester_Team5)
 
-# 2020: [COUNTER-5-Report-Tool-2020-5.0](https://github.com/CS-4820-Library-Project/COUNTER-5-Report-Tool-2020-5.0)
+## Research Guide management system for Drupal sites
+
+UPEI's library uses the open source Drupal web content management system. This project was to create a Drupal module that would help librarians create and manage systems of "guides", as a kind of simplified and open source version of the commercial service known as "LibGuides".
+The students did excellent work and produced fine modules for the library Drupal (9 and 10) community.
+
+* [Library-Research_Guides_Drupal10](https://github.com/CS-4820-Library-Project/Library-Research_Guides_Drupal10)
+* [LGMS (Library Guide Management System)](https://github.com/CS-4820-Library-Project/LGMS)
+
+## COUNTER 5.1 API Harvester
+
+This was meant to be the upgrade to the 2020 COUNTER 5.0 Harvester. The students did a lot of good work on this.  Unfortunately, the timing was off - none of the expected library content providers (eg publishers) had their Code of Practice 5.1 API up and running in time for these students to have test servers to work with.
+Their GUI designs were very good. One used Python and the other used Electron.
+I have kept both repositories private so some poor librarian doesn't stumble into either and try to install them. If you want access to the code, contact me.
+
+In 2025, after discovering the magic of using genAI to help write code, I developed my own COUNTER 5.1 Harvester, not as part of a CS 4820 class. I had a UPEI CS student write the GUI for me. I keep that in [my own repository](https://github.com/Melissa-Belvadi-Library-Projects/C5.1_Harvester), and maintain it (because I use it too, all the time!). It is a desktop app written in Python3 with PyQt.
+
+
+* [COUNTER-5.1-Report-Harvester](https://github.com/CS-4820-Library-Project/COUNTER-5.1-Report-Harvester) - based on Electron
+* [COUNTER_Harvester_5.1](https://github.com/CS-4820-Library-Project/COUNTER_Harvester_5.1) - based on Python
+
+# 2020:
+
+The project this year was to develop a GUI based desktop app that would use the COUNTER Metrics usage data API system (called "SUSHI API" back then) so libraries could collect all of the COUNTER usage data from all of their content providers (eg publishers, aggregator platforms) easily and put all the data into an sqlite3 database for more advanced analysis than the traditional method, manually downloading all those spreadsheets one at a time per provider.
+COUNTER Metrics is now (as of 2025) on Code of Practice 5.1, which included major changes, so this project app is only relevant for providers who haven't yet updated their systems to support 5.1.  But as of April 2026, that's still quite a few smaller but important content providers.
+This app was incredibly useful to UPEI over these past years.
+
+[COUNTER-5-Report-Tool-2020-5.0](https://github.com/CS-4820-Library-Project/COUNTER-5-Report-Tool-2020-5.0)
