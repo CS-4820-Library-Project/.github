@@ -14,7 +14,7 @@ For more information, read [the project specs](https://github.com/CS-4820-Librar
 
 * [LCCN-harvester-team6-2026](https://github.com/CS-4820-Library-Project/LCCN-harvester-team6-2026)
 * [LibraryMetadataHarvester_Team5](https://github.com/CS-4820-Library-Project/LibraryMetadataHarvester_Team5)
-* [LCCN_Harvester (Team 4)](https://github.com/UPEI-LCCN-harvester-group-4/LCCN_Harvester)
+* [LCCN_Harvester (Team 4)](https://github.com/CS-4820-Library-Project/LCCN_Harvester_Team4_2026)
 
 ## Guide on the Side Project
 
