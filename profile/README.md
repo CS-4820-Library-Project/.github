@@ -13,7 +13,7 @@ This project provides python3/PyQt6 code to enable librarians who have a list of
 For more information, read [the project specs](https://github.com/CS-4820-Library-Project/.github/blob/main/LCCN_2026.md).
 
 * [LCCN-harvester-team6-2026](https://github.com/CS-4820-Library-Project/LCCN-harvester-team6-2026)
-* [LibraryMetadataHarvester_Team5](https://github.com/CS-4820-Library-Project/LibraryMetadataHarvester_Team5)
+* [2026-LCCN-Harvester-Project-Team5](https://github.com/CS-4820-Library-Project/2026-LCCN-Harvester-Project-Team5)
 * [LCCN_Harvester (Team 4)](https://github.com/CS-4820-Library-Project/LCCN_Harvester_Team4_2026)
 
 ## Guide on the Side Project
